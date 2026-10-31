@@ -1,0 +1,19 @@
+Title: Software Installation and Access
+
+Problem:
+An employee cannot access an application or needs new software.
+
+Instructions:
+1. Check whether the application is already installed.
+2. Verify that the employee is signed in with the correct account.
+3. Check whether the employee has the required application permissions.
+4. Submit a software access request through the approved company process.
+
+Security:
+Software installation and access must follow company policy.
+Do not bypass administrative controls.
+
+Escalation:
+If access is still unavailable, contact the IT support team.
+
+Category: Software

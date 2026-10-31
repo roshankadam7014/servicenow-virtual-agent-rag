@@ -1,0 +1,17 @@
+Title: VPN Connection Troubleshooting
+
+Problem:
+Employees cannot connect to the corporate VPN.
+
+Troubleshooting steps:
+1. Check whether the internet connection is working.
+2. Verify that the employee is using the correct VPN address.
+3. Confirm that the employee's account is active.
+4. Restart the approved VPN client and try again.
+5. Check the displayed VPN error message.
+
+Escalation:
+If the problem continues, contact the IT support team.
+Include the error message and the time the issue occurred.
+
+Category: Network
