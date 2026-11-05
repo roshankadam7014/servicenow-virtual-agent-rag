@@ -170,7 +170,7 @@ if question:
 st.divider()
 st.header("🎫 IT Incident Management")
 
-API_BASE = "http://127.0.0.1:8000"
+API_BASE = "https://servicenow-virtual-agent-rag.onrender.com"
 
 create_tab, track_tab, update_tab = st.tabs([
     "Create Ticket",
