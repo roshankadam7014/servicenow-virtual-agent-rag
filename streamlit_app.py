@@ -2,7 +2,7 @@
 import requests
 import streamlit as st
 
-API_BASE = "http://127.0.0.1:8000"
+API_BASE = "https://servicenow-virtual-agent-rag.onrender.com"
 API_URL = f"{API_BASE}/chat"
 
 
