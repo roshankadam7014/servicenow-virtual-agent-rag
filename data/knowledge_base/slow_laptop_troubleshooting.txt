@@ -1,0 +1,56 @@
+# Slow Laptop Performance Troubleshooting
+
+## Problem Description
+An employee experiences slow laptop performance, delayed application responses, or frequent system freezing while performing daily work.
+
+## Common Symptoms
+- Laptop takes a long time to start.
+- Applications open slowly.
+- System freezes or becomes unresponsive.
+- High CPU or memory usage.
+- Browser tabs respond slowly.
+- Laptop becomes slow when multiple applications are running.
+
+## Possible Causes
+- Too many applications running simultaneously.
+- Insufficient RAM.
+- High CPU or disk usage.
+- Low available storage space.
+- Too many startup applications.
+- Outdated operating system or drivers.
+- Background updates or antivirus scans.
+- Malware or suspicious applications.
+
+## Troubleshooting Steps
+1. Restart the laptop and check whether performance improves.
+2. Close unnecessary applications and browser tabs.
+3. Open Task Manager and check CPU, memory, and disk usage.
+4. Identify applications consuming excessive system resources.
+5. Close unnecessary startup applications using approved system settings.
+6. Check whether sufficient storage space is available.
+7. Install pending updates according to company IT policies.
+8. Run the organization-approved antivirus scan if malware is suspected.
+9. If performance remains slow, contact authorized IT support.
+
+## When to Escalate
+Contact IT support if:
+- Laptop frequently freezes.
+- CPU, memory, or disk usage remains unusually high.
+- Applications repeatedly crash.
+- Storage space is critically low.
+- Performance does not improve after troubleshooting.
+
+## Security Precautions
+- Do not install unauthorized optimization software.
+- Do not disable antivirus or endpoint protection.
+- Do not terminate unknown system processes.
+- Follow company policies before installing updates.
+
+## Expected Resolution
+The laptop operates normally, applications respond faster, and system performance improves.
+
+## Support Category
+Hardware Support
+
+## Keywords
+slow laptop, laptop performance issues, computer freezing, high CPU usage, high memory usage, slow applications, low disk space, system performance

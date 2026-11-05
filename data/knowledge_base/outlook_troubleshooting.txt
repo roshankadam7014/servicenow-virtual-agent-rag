@@ -1,0 +1,55 @@
+# Outlook Email Troubleshooting
+
+## Problem Description
+An employee experiences problems with Microsoft Outlook, including email synchronization failures, sending or receiving emails, or application performance issues.
+
+## Common Symptoms
+- Outlook is not synchronizing emails.
+- Unable to send or receive emails.
+- Emails remain stuck in the Outbox.
+- Outlook displays disconnected status.
+- New emails are not appearing.
+- Outlook application freezes or crashes.
+
+## Possible Causes
+- Internet connectivity problems.
+- Outlook is offline.
+- Incorrect account configuration.
+- Mailbox storage limit reached.
+- Corrupted Outlook profile.
+- Outdated Outlook application.
+- Temporary mail server issues.
+
+## Troubleshooting Steps
+1. Verify that your internet connection is working.
+2. Check whether Outlook displays Work Offline mode.
+3. If Work Offline is enabled, disable it.
+4. Restart the Outlook application.
+5. Check whether emails are stuck in the Outbox.
+6. Verify that your mailbox has available storage space.
+7. Check whether Outlook requires an update.
+8. Try accessing corporate email through the organization's approved webmail portal.
+9. If synchronization problems continue, contact authorized IT support.
+
+## When to Escalate
+Contact IT support if:
+- Emails cannot be sent or received.
+- Outlook repeatedly disconnects.
+- Mailbox synchronization continues to fail.
+- Multiple employees experience email issues.
+- Outlook crashes repeatedly.
+
+## Security Precautions
+- Never share corporate email passwords.
+- Do not open suspicious email attachments.
+- Report phishing emails through approved company procedures.
+- Use only organization-approved email applications.
+
+## Expected Resolution
+Outlook synchronizes successfully, and the employee can send and receive corporate emails.
+
+## Support Category
+Email Support
+
+## Keywords
+Outlook not syncing, email synchronization failure, unable to send email, unable to receive email, Outlook disconnected, emails stuck in Outbox, mailbox full, Outlook troubleshooting

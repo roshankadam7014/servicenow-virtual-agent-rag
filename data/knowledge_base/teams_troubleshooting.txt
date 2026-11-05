@@ -1,0 +1,56 @@
+# Microsoft Teams Audio and Video Troubleshooting
+
+## Problem Description
+An employee experiences audio, video, or meeting connectivity issues while using Microsoft Teams.
+
+## Common Symptoms
+- Microphone is not working.
+- Other participants cannot hear the employee.
+- Camera is not detected.
+- Video appears blurry or freezes.
+- No sound during meetings.
+- Teams calls disconnect unexpectedly.
+- Unable to join or connect to meetings.
+
+## Possible Causes
+- Incorrect microphone or speaker selection.
+- Camera or microphone permissions are disabled.
+- Another application is using the camera or microphone.
+- Unstable internet connection.
+- Outdated Teams application.
+- Outdated audio or camera drivers.
+- Incorrect device settings.
+
+## Troubleshooting Steps
+1. Verify that your internet connection is stable.
+2. Restart the Microsoft Teams application.
+3. Open Teams device settings and select the correct microphone, speaker, and camera.
+4. Check that microphone and camera permissions are enabled.
+5. Close other applications that may be using the microphone or camera.
+6. Test your microphone and speaker using the available device settings.
+7. Check whether Microsoft Teams requires an update.
+8. Restart your computer and try joining the meeting again.
+9. If the issue continues, contact authorized IT support.
+
+## When to Escalate
+Contact IT support if:
+- Microphone or camera is not detected.
+- Audio problems continue after checking device settings.
+- Teams repeatedly disconnects.
+- Multiple employees experience meeting connectivity problems.
+- Teams crashes or fails to start.
+
+## Security Precautions
+- Grant camera and microphone permissions only to trusted applications.
+- Do not install unauthorized audio or video drivers.
+- Use organization-approved communication applications.
+- Report suspicious meeting invitations.
+
+## Expected Resolution
+The employee can join Microsoft Teams meetings and use microphone, speaker, and camera successfully.
+
+## Support Category
+Collaboration Tools
+
+## Keywords
+Microsoft Teams not working, Teams audio issue, Teams microphone not working, Teams camera not working, video freezing, meeting connection failure, Teams troubleshooting

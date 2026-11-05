@@ -1,0 +1,52 @@
+# Wi-Fi Connectivity Troubleshooting
+
+## Problem Description
+An employee cannot connect to the corporate Wi-Fi network or experiences unstable wireless connectivity.
+
+## Common Symptoms
+- Unable to connect to corporate Wi-Fi.
+- Connected to Wi-Fi but no internet access.
+- Wi-Fi disconnects frequently.
+- Incorrect Wi-Fi password error.
+- Slow network performance.
+- Unable to access internal company applications.
+
+## Possible Causes
+- Incorrect Wi-Fi credentials.
+- Weak wireless signal.
+- Router or access point issues.
+- Incorrect IP configuration.
+- DNS resolution problems.
+- Outdated wireless network drivers.
+- Temporary network outage.
+
+## Troubleshooting Steps
+1. Confirm that Wi-Fi is enabled on your device.
+2. Verify that you are connecting to the correct corporate Wi-Fi network.
+3. Re-enter your approved Wi-Fi credentials.
+4. Move closer to the wireless access point.
+5. Disconnect from Wi-Fi and reconnect.
+6. Restart your computer and try again.
+7. Check whether other employees are experiencing the same issue.
+8. If connected but unable to access resources, contact IT support for network and DNS checks.
+
+## When to Escalate
+Contact IT support if:
+- Corporate Wi-Fi remains unavailable.
+- Multiple employees experience connectivity problems.
+- Wi-Fi disconnects repeatedly.
+- Internal applications remain inaccessible.
+
+## Security Precautions
+- Connect only to authorized corporate Wi-Fi networks.
+- Never share corporate network credentials.
+- Avoid unknown or suspicious wireless networks.
+
+## Expected Resolution
+The employee successfully connects to corporate Wi-Fi and accesses authorized network resources.
+
+## Support Category
+Network Connectivity
+
+## Keywords
+Wi-Fi not connecting, corporate Wi-Fi, wireless network, no internet access, frequent disconnection, DNS issue, network connectivity

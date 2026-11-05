@@ -1,0 +1,52 @@
+# MFA Authentication Troubleshooting
+
+## Problem Description
+An employee cannot complete Multi-Factor Authentication (MFA) while signing in to corporate applications.
+
+## Common Symptoms
+- MFA verification code is rejected.
+- Authentication notification does not appear on the registered device.
+- MFA application displays an error.
+- Employee cannot approve the login request.
+- Authentication repeatedly fails.
+
+## Possible Causes
+- Incorrect or expired verification code.
+- Incorrect device time settings.
+- Internet connectivity problems.
+- Outdated authentication application.
+- Employee changed or lost their registered phone.
+- Temporary identity provider issues.
+
+## Troubleshooting Steps
+
+1. Confirm that you are using the correct registered authentication device.
+2. Check that your device has a stable internet connection.
+3. Verify that the device date and time are set automatically.
+4. Request a fresh verification code if the previous code has expired.
+5. If using an authenticator application, check whether it requires an update.
+6. If an approval notification does not appear, open the organization's approved authentication application and check for pending requests.
+7. If you changed or lost your registered device, contact authorized IT support to restore MFA access.
+
+## When to Escalate
+Contact IT support if:
+- MFA codes are repeatedly rejected.
+- The registered device is lost or unavailable.
+- You receive unexpected authentication requests.
+- MFA remains unavailable after troubleshooting.
+- Multiple employees experience authentication failures.
+
+## Security Precautions
+- Never share MFA codes with anyone.
+- Never approve an authentication request that you did not initiate.
+- Report unexpected login approval requests immediately.
+- Use only organization-approved MFA recovery procedures.
+
+## Expected Resolution
+The employee successfully completes MFA using their registered device or receives assistance from authorized IT support to restore authentication access.
+
+## Support Category
+Account Access
+
+## Keywords
+MFA failure, multi factor authentication, OTP not working, verification code rejected, authenticator app, login approval, authentication notification, lost phone, MFA troubleshooting

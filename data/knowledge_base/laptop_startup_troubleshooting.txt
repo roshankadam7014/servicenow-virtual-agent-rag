@@ -1,0 +1,54 @@
+# Laptop Startup Troubleshooting
+
+## Problem Description
+An employee's laptop does not start, fails to boot, or gets stuck during startup.
+
+## Common Symptoms
+- Laptop does not power on.
+- Power button works but screen remains black.
+- Laptop gets stuck on the startup logo.
+- Operating system fails to load.
+- Laptop repeatedly restarts.
+- Blue screen or boot error appears.
+
+## Possible Causes
+- Battery completely discharged.
+- Faulty charger or power adapter.
+- Hardware failure.
+- Operating system corruption.
+- Failed system update.
+- External device causing startup problems.
+- Insufficient power supply.
+
+## Troubleshooting Steps
+1. Check whether the laptop charger is properly connected.
+2. Verify that the power outlet and adapter are working.
+3. Connect the charger and allow the battery to charge for some time.
+4. Disconnect external USB devices and peripherals.
+5. Hold the power button to perform a normal forced shutdown, then try restarting.
+6. Check whether the laptop displays any error messages.
+7. If the laptop reaches the recovery screen, contact IT support before attempting recovery operations.
+8. If the laptop still does not start, contact authorized IT support.
+
+## When to Escalate
+Contact IT support if:
+- The laptop does not power on after checking the charger.
+- The screen remains black.
+- The laptop repeatedly restarts.
+- Hardware failure is suspected.
+- Boot errors continue.
+
+## Security Precautions
+- Do not open the laptop or attempt hardware repairs without authorization.
+- Do not reinstall the operating system without IT approval.
+- Do not remove or format company storage devices.
+- Protect company data during troubleshooting.
+
+## Expected Resolution
+The laptop starts successfully and loads the operating system. If hardware or operating system problems remain, authorized IT support performs further diagnosis.
+
+## Support Category
+Hardware Support
+
+## Keywords
+laptop not starting, laptop won't turn on, black screen, boot failure, startup problem, laptop stuck on logo, operating system not loading, laptop restart loop

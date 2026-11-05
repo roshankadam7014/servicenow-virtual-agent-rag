@@ -1,0 +1,49 @@
+# Account Lockout Troubleshooting
+
+## Problem Description
+An employee cannot sign in to their corporate account because the account has been locked after multiple unsuccessful login attempts.
+
+## Common Symptoms
+- The login page displays an account locked message.
+- The employee cannot access corporate applications.
+- Login attempts fail even when the correct password is entered.
+- The account is temporarily blocked after repeated failed attempts.
+
+## Possible Causes
+- Multiple incorrect password attempts.
+- An outdated password saved on another device.
+- Background applications repeatedly attempting authentication.
+- Suspicious or unusual login activity.
+- Organization-defined account security restrictions.
+
+## Troubleshooting Steps
+
+1. Stop repeated login attempts to avoid extending the lockout.
+2. Verify that you are using the correct corporate username.
+3. Check whether your password was recently changed.
+4. If your organization provides an approved self-service account unlock portal, follow its identity verification process.
+5. Check whether other devices or applications are using an outdated saved password.
+6. If the account remains locked, contact the authorized IT support team.
+
+## When to Escalate
+Contact IT support if:
+- The account remains locked after following the approved unlock process.
+- The employee cannot access the self-service portal.
+- The account repeatedly becomes locked.
+- The employee suspects unauthorized login attempts.
+- Multiple employees experience the same account lockout issue.
+
+## Security Precautions
+- Never share your password or MFA verification codes.
+- Never ask another person to unlock your account using their credentials.
+- Report suspicious login notifications to the authorized IT security team.
+- Use only organization-approved account recovery procedures.
+
+## Expected Resolution
+The employee regains access after completing the organization's approved identity verification and account unlock process. If the issue persists, IT support must investigate further.
+
+## Support Category
+Account Access
+
+## Keywords
+account locked, account lockout, unable to login, login blocked, too many failed attempts, unlock account, corporate account access, authentication failure

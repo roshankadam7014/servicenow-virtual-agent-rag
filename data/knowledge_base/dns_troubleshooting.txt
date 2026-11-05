@@ -1,0 +1,49 @@
+# DNS Troubleshooting
+
+## Problem Description
+An employee cannot access internal or external websites because of DNS resolution failures.
+
+## Common Symptoms
+- Website cannot be reached.
+- DNS server not responding error.
+- Internal applications fail to load.
+- Unable to resolve domain names.
+- Internet works using an IP address but not a domain name.
+
+## Possible Causes
+- Incorrect DNS server configuration.
+- DNS cache issues.
+- Network connectivity problems.
+- VPN DNS configuration conflicts.
+- Temporary DNS server outage.
+- Incorrect network adapter settings.
+
+## Troubleshooting Steps
+1. Verify that your internet or corporate network connection is working.
+2. Disconnect and reconnect to the network.
+3. Restart your computer and try accessing the website again.
+4. Check whether the issue affects multiple websites or only one.
+5. If the problem occurs while using VPN, reconnect to the approved corporate VPN.
+6. Contact IT support to check DNS server configuration and domain resolution.
+7. Ask IT support to investigate DNS server availability if the issue affects multiple employees.
+
+## When to Escalate
+Contact IT support if:
+- DNS server errors continue.
+- Multiple employees cannot access internal applications.
+- Corporate websites fail to resolve.
+- DNS problems continue after reconnecting to the network.
+
+## Security Precautions
+- Do not change corporate DNS settings without IT approval.
+- Use only organization-approved network configurations.
+- Report suspicious redirects or unexpected websites.
+
+## Expected Resolution
+DNS resolution works correctly, allowing employees to access authorized internal and external websites.
+
+## Support Category
+Network Connectivity
+
+## Keywords
+DNS troubleshooting, DNS server not responding, domain resolution failure, website not reachable, DNS cache, corporate DNS, VPN DNS issue
