@@ -8,11 +8,12 @@ from app.rag import ITHelpdeskRAG
 
 from typing import Literal
 from fastapi import Query
-from app.ticket_store import count_incidents
+
 from typing import Literal
 
+from app.ticket_store_postgres import count_incidents
 
-from app.ticket_store import (
+from app.ticket_store_postgres import (
     initialize_database,
     create_incident,
     list_incidents,
@@ -45,7 +46,7 @@ class IncidentCreate(BaseModel):
     title: str = Field(min_length=3, max_length=150)
     description: str = Field(min_length=5, max_length=3000)
     category: Literal[
-        "Network", "Account Access", "Software", "Hardware", "Other"
+        "Network", "Account Access", "Software", "Hardware", "Other","HR / Policy"
     ]
     priority: Literal["Low", "Medium", "High"] = "Medium"
 
@@ -70,6 +71,8 @@ class Source(BaseModel):
 class ChatResponse(BaseModel):
     answer: str
     sources: list[Source]
+    needs_escalation: bool
+    relevance_score: float | None = None
 
 
 @app.get("/")

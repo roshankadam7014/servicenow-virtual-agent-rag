@@ -2,7 +2,8 @@
 import requests
 import streamlit as st
 
-API_URL = "http://127.0.0.1:8000/chat"
+API_BASE = "http://127.0.0.1:8000"
+API_URL = f"{API_BASE}/chat"
 
 
 def detect_issue_category(question: str) -> str:
@@ -219,12 +220,10 @@ with create_tab:
                 response = requests.post(
                 f"{API_BASE}/incidents",
                 json={
-                    "title": ticket_title,
-                    "description": ticket_description,
-                    "category": escalation_category,
-                    "priority": escalation_priority,
-                    "user_message": last_question,
-                    "assistant_response": last_answer,
+                    "title": title,
+                    "description": description,
+                    "category": category,
+                    "priority": priority,
                 },
                 timeout=15,
             )

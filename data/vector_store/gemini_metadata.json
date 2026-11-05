@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Title: Password Reset Instructions Problem: An employee has forgotten their corporate password. Instructions: 1. Open the company's approved password reset portal. 2. Follow the identity verification process. 3. Complete the password reset instructions. 4. Sign in again using the new password. Security: Never share passwords or verification codes with another person. IT support must follow the company's identity verification policy. Escalation: If self-service reset fails, contact the authorized IT support team. Category: Account Access",
+    "source": "password_reset.txt",
+    "chunk": 0
+  },
+  {
+    "text": "Title: Software Installation and Access Problem: An employee cannot access an application or needs new software. Instructions: 1. Check whether the application is already installed. 2. Verify that the employee is signed in with the correct account. 3. Check whether the employee has the required application permissions. 4. Submit a software access request through the approved company process. Security: Software installation and access must follow company policy. Do not bypass administrative controls. Escalation: If access is still unavailable, contact the IT support team. Category: Software",
+    "source": "software_access.txt",
+    "chunk": 0
+  },
+  {
+    "text": "Title: VPN Connection Troubleshooting Problem: Employees cannot connect to the corporate VPN. Troubleshooting steps: 1. Check whether the internet connection is working. 2. Verify that the employee is using the correct VPN address. 3. Confirm that the employee's account is active. 4. Restart the approved VPN client and try again. 5. Check the displayed VPN error message. Escalation: If the problem continues, contact the IT support team. Include the error message and the time the issue occurred. Category: Network",
+    "source": "vpn_troubleshooting.txt",
+    "chunk": 0
+  }
+]
